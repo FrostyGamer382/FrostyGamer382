@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrostyGamer382
-- 👀 I’m interested in .Texture.
-- 🌱 I’m currently learning .python.
-- 💞️ I’m looking to collaborate on .FrozenBock.
+- 👀 I’m interested in .html.
+- 🌱 I’m currently learning .java.
+- 💞️ I’m looking to collaborate on .Discord.
 - 📫 How to reach me .Discord.
 
 <!---
