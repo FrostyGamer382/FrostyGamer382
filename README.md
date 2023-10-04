@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FrostyGamer382
-- 👀 I’m interested in .html.
+- 👀 I’m interested in nothing.
 - 🌱 I’m currently learning .java.
-- 💞️ I’m looking to collaborate on .Discord.
-- 📫 How to reach me .Discord.
+- 💞️ I’m looking to collaborate on Discord.
+- 📫 How to reach me Discord: frostygamer382.
 
 <!---
 FrostyGamer382/FrostyGamer382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
