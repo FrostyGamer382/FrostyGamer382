@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrostyGamer382
-- 👀 I’m interested in nothing.
-- 🌱 I’m currently learning .java.
+- 👀 I’m interested in html.
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on Discord.
 - 📫 How to reach me Discord: frostygamer382.
 
